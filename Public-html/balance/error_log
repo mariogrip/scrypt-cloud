@@ -1,0 +1,299 @@
+[16-Mar-2014 13:39:05 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/db_connect.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:39:05 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:39:05 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/functions.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:39:05 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:39:05 America/Indiana/Indianapolis] PHP Fatal error:  Call to undefined function sec_session_start() in /home/forbanna/public_html/ltc/beta/balance/index.php on line 6
+[16-Mar-2014 13:39:28 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/db_connect.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:39:28 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:39:28 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/functions.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:39:28 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:39:28 America/Indiana/Indianapolis] PHP Fatal error:  Call to undefined function sec_session_start() in /home/forbanna/public_html/ltc/beta/balance/index.php on line 6
+[16-Mar-2014 13:41:29 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/db_connect.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:41:29 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:41:29 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/functions.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:41:29 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:41:29 America/Indiana/Indianapolis] PHP Fatal error:  Call to undefined function sec_session_start() in /home/forbanna/public_html/ltc/beta/balance/index.php on line 6
+[16-Mar-2014 13:42:09 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/db_connect.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:42:09 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:42:09 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/functions.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:42:09 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:42:09 America/Indiana/Indianapolis] PHP Fatal error:  Call to undefined function sec_session_start() in /home/forbanna/public_html/ltc/beta/balance/index.php on line 6
+[16-Mar-2014 13:42:11 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/db_connect.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:42:11 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:42:11 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/functions.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:42:11 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:42:11 America/Indiana/Indianapolis] PHP Fatal error:  Call to undefined function sec_session_start() in /home/forbanna/public_html/ltc/beta/balance/index.php on line 6
+[16-Mar-2014 13:42:19 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/db_connect.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:42:19 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:42:19 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/functions.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:42:19 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:42:19 America/Indiana/Indianapolis] PHP Fatal error:  Call to undefined function sec_session_start() in /home/forbanna/public_html/ltc/beta/balance/index.php on line 6
+[16-Mar-2014 13:42:21 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/db_connect.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:42:21 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 3
+[16-Mar-2014 13:42:21 America/Indiana/Indianapolis] PHP Warning:  include_once(inc/functions.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:42:21 America/Indiana/Indianapolis] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 4
+[16-Mar-2014 13:42:21 America/Indiana/Indianapolis] PHP Fatal error:  Call to undefined function sec_session_start() in /home/forbanna/public_html/ltc/beta/balance/index.php on line 6
+[16-Mar-2014 17:54:55 America/Indiana/Indianapolis] PHP Warning:  require_once(header.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 10
+[16-Mar-2014 17:54:55 America/Indiana/Indianapolis] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 10
+[16-Mar-2014 17:54:58 America/Indiana/Indianapolis] PHP Warning:  require_once(header.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 10
+[16-Mar-2014 17:54:58 America/Indiana/Indianapolis] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 10
+[16-Mar-2014 18:03:24 America/Indiana/Indianapolis] PHP Warning:  require_once(,,/bitcoin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 13
+[16-Mar-2014 18:03:24 America/Indiana/Indianapolis] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required ',,/bitcoin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 13
+[16-Mar-2014 18:03:25 America/Indiana/Indianapolis] PHP Warning:  require_once(,,/bitcoin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/forbanna/public_html/ltc/beta/balance/index.php on line 13
+[16-Mar-2014 18:03:25 America/Indiana/Indianapolis] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required ',,/bitcoin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/forbanna/public_html/ltc/beta/balance/index.php on line 13
+[16-Mar-2014 21:09:14 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[17-Mar-2014 10:42:54 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[17-Mar-2014 10:43:43 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[17-Mar-2014 12:56:06 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[17-Mar-2014 13:05:22 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[17-Mar-2014 16:16:11 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[17-Mar-2014 16:17:08 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[17-Mar-2014 16:17:19 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[17-Mar-2014 17:22:38 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[19-Mar-2014 11:33:24 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '}' in /home/forbanna/public_html/ltc/beta/functions.php on line 29
+[19-Mar-2014 12:01:05 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '}' in /home/forbanna/public_html/ltc/beta/functions.php on line 32
+[19-Mar-2014 12:01:06 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '}' in /home/forbanna/public_html/ltc/beta/functions.php on line 32
+[19-Mar-2014 12:01:48 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '}' in /home/forbanna/public_html/ltc/beta/functions.php on line 32
+[19-Mar-2014 12:01:49 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '}' in /home/forbanna/public_html/ltc/beta/functions.php on line 32
+[19-Mar-2014 12:02:44 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '}' in /home/forbanna/public_html/ltc/beta/functions.php on line 32
+[19-Mar-2014 12:02:50 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '}' in /home/forbanna/public_html/ltc/beta/functions.php on line 32
+[19-Mar-2014 12:03:24 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function getbalance() on a non-object in /home/forbanna/public_html/ltc/beta/balance/index.php on line 129
+[19-Mar-2014 12:09:10 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /home/forbanna/public_html/ltc/beta/functions.php on line 3
+[19-Mar-2014 12:10:17 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 4
+[19-Mar-2014 12:11:17 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 4
+[19-Mar-2014 12:12:14 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 4
+[19-Mar-2014 12:19:10 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 4
+[19-Mar-2014 12:29:12 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 4
+[19-Mar-2014 12:35:45 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 4
+[19-Mar-2014 12:36:35 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '.' in /home/forbanna/public_html/ltc/beta/functions.php on line 8
+[19-Mar-2014 12:36:38 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '.' in /home/forbanna/public_html/ltc/beta/functions.php on line 8
+[19-Mar-2014 12:37:52 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '.' in /home/forbanna/public_html/ltc/beta/functions.php on line 7
+[19-Mar-2014 12:37:53 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '.' in /home/forbanna/public_html/ltc/beta/functions.php on line 7
+[19-Mar-2014 12:37:58 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '.' in /home/forbanna/public_html/ltc/beta/functions.php on line 7
+[19-Mar-2014 12:38:14 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '.' in /home/forbanna/public_html/ltc/beta/functions.php on line 7
+[19-Mar-2014 12:38:54 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '.' in /home/forbanna/public_html/ltc/beta/functions.php on line 7
+[19-Mar-2014 12:39:14 America/Indiana/Indianapolis] PHP Parse error:  syntax error, unexpected '.' in /home/forbanna/public_html/ltc/beta/functions.php on line 7
+[19-Mar-2014 12:40:00 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:40:19 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:40:46 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:41:09 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:44:59 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:45:11 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:45:37 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:47:22 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:47:57 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:48:24 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:54:31 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:54:33 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:54:53 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:55:26 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:55:46 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:56:04 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:57:05 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 12:59:01 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 13:00:30 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 13:00:34 America/Indiana/Indianapolis] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/forbanna/public_html/ltc/beta/functions.php on line 5
+[19-Mar-2014 18:45:11 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(137): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(137): jsonRPCClient->getbalance(NULL, 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[19-Mar-2014 18:47:07 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(137): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(137): jsonRPCClient->getbalance(NULL, 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[19-Mar-2014 19:07:02 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(136): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(136): jsonRPCClient->getbalance(NULL, 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[19-Mar-2014 19:07:07 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(136): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(136): jsonRPCClient->getbalance(NULL, 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[20-Mar-2014 03:39:03 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance(NULL, 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[21-Mar-2014 19:39:23 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[21-Mar-2014 19:49:28 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[21-Mar-2014 19:59:29 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[21-Mar-2014 20:09:30 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[21-Mar-2014 20:19:30 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[21-Mar-2014 20:29:31 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[21-Mar-2014 20:39:32 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[21-Mar-2014 20:49:33 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[21-Mar-2014 20:59:34 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[21-Mar-2014 21:09:35 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[22-Mar-2014 07:01:20 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[22-Mar-2014 07:04:07 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[22-Mar-2014 07:05:15 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[22-Mar-2014 07:15:16 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[22-Mar-2014 08:12:38 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[22-Mar-2014 14:14:39 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[22-Mar-2014 16:55:55 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[22-Mar-2014 18:09:33 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[22-Mar-2014 18:19:37 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[22-Mar-2014 18:29:40 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[22-Mar-2014 18:37:54 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[22-Mar-2014 18:47:56 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[22-Mar-2014 18:57:57 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
+[23-Mar-2014 08:26:48 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[23-Mar-2014 17:28:50 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance(NULL, 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[23-Mar-2014 17:29:09 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[23-Mar-2014 17:41:20 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[24-Mar-2014 07:01:46 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, response id: )' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:152
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance('11', 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 152
+[24-Mar-2014 12:42:36 America/Indiana/Indianapolis] PHP Fatal error:  Uncaught exception 'Exception' with message 'Request error: Array' in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php:155
+Stack trace:
+#0 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->__call('getbalance', Array)
+#1 /home/forbanna/public_html/ltc/beta/balance/index.php(155): jsonRPCClient->getbalance(NULL, 0)
+#2 {main}
+  thrown in /home/forbanna/public_html/ltc/beta/inc/jsonRPCClient.php on line 155
